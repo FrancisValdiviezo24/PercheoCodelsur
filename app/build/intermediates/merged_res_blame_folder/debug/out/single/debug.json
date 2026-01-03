@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\drawable_logo_placeholder_3_1.xml.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\drawable\\logo_placeholder_3_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\color_btn_print_tint.xml.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\color\\btn_print_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\color_btn_print_text.xml.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\color\\btn_print_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\drawable_logo_comisariato_sur.png.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\drawable\\logo_comisariato_sur.png"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\layout_item_printer.xml.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\layout\\item_printer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codelsur.percheo.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.codelsur.percheo.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\layout_dialog_printer_selection.xml.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\layout\\dialog_printer_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-merged_res-32:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    }
+]

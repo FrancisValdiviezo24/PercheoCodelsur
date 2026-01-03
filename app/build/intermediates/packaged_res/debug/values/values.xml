@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="app_bg">#F4F6F8</color>
+    <color name="black">#000000</color>
+    <color name="brand_primary">#0E9E87</color>
+    <color name="card_stroke">#E2E6EA</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#4B5563</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Percheo Codelsur</string>
+    <string name="mode_app">Modo App</string>
+    <string name="mode_web">Modo Web</string>
+    <string name="print_label">Imprimir Etiqueta</string>
+    <string name="scan_product">Escanear Producto</string>
+    <style name="Theme.PercheoIsyplus" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorSecondary">@color/brand_primary</item>
+
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/brand_primary</item>
+    </style>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.codelsur.percheo.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.codelsur.percheo.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-mergeDebugResources-31:\\layout\\dialog_printer_selection.xml",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\layout\\dialog_printer_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-mergeDebugResources-31:\\layout\\item_printer.xml",
+        "source": "C:\\Users\\PC Cliente\\.gradle\\daemon\\8.2\\com.codelsur.percheo.app-main-34:\\layout\\item_printer.xml"
+    }
+]

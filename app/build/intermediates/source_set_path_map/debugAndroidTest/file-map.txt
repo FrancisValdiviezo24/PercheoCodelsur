@@ -1,0 +1,4 @@
+com.codelsur.percheo.test.app-androidTest-0 C:\Users\PC Cliente\Desktop\app-Percheo\PercheoIsyplus\app\build\generated\res\resValues\androidTest\debug
+com.codelsur.percheo.test.app-mergeDebugAndroidTestResources-1 C:\Users\PC Cliente\Desktop\app-Percheo\PercheoIsyplus\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.codelsur.percheo.test.app-mergeDebugAndroidTestResources-2 C:\Users\PC Cliente\Desktop\app-Percheo\PercheoIsyplus\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.codelsur.percheo.test.app-merged_res-3 C:\Users\PC Cliente\Desktop\app-Percheo\PercheoIsyplus\app\build\intermediates\merged_res\debugAndroidTest

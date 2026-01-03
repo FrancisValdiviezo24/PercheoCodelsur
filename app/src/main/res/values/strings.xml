@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Percheo Codelsur</string>
+    <string name="mode_web">Modo Web</string>
+    <string name="mode_app">Modo App</string>
+    <string name="scan_product">Escanear Producto</string>
+    <string name="print_label">Imprimir Etiqueta</string>
+</resources>
